@@ -4,7 +4,6 @@
 ## Assignment: Caching the Inverse of a Matrix; GithubUser: Datagseoane
 
 ## Write a short comment describing this function
-
 ## This function creates a special "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) { ## define the argument "matrix"
     inv <- NULL 
